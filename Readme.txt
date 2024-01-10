@@ -13,6 +13,7 @@ Pre-trained Models: Access to pre-trained models on standard datasets for quick 
 Getting Started
 To begin using this project, clone the repository and follow the installation instructions in the documentation. We provide a step-by-step guide to set up your environment, prepare your dataset, and start training your model.
 
+Download all the files for this repository from : https://drive.google.com/drive/folders/1-4xWF0qmzVKpEvSV1sqKpWeyU61p08NY?usp=sharing
 
 Unzip Object Detection for Custom Dataset using MASK RCNN.rar
 
